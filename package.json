@@ -2,7 +2,7 @@
   "name": "sajan-web-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "sajanghuman.com",
+  "homepage": "https://sajanghuman.com",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
