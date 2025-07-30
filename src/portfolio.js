@@ -118,6 +118,18 @@ const blogs = {
     name: '🧩 My React Component Library — Published on GitHub 📦',
     link: 'https://github.com/users/SajanGhuman/packages/npm/package/component-library',
   },
+  obj11: {
+    name: '🔥 Hackathon : Upro Project Contribution',
+    link: 'https://github.com/SajanGhuman/upro-web',
+  },
+  obj12: {
+    name: '🖥️ One-Script Linux Dotfiles Setup – Simplify Your Workflow',
+    link: 'https://gist.github.com/SajanGhuman/5ab609e107b9a369496488855e026fb6',
+  },
+  obj13: {
+    name: '🐧 My Arch Linux Dotfiles — The Ultimate Setup',
+    link: 'https://github.com/SajanGhuman/Dotfiles',
+  },
 }
 
 const skills = [
