@@ -48,7 +48,7 @@ const projects = [
   },
   {
     name: 'Cube Space',
-    description: 'Learn rubciks cube algorithms interactively.',
+    description: 'Learn rubicks cube algorithms interactively.',
     stack: ['TypeScript', 'React', 'Tailwind CSS'],
     sourceCode: 'https://github.com/SajanGhuman/Cube-Space',
     livePreview: 'https://cubespace.sajanghuman.com/',
@@ -76,6 +76,49 @@ const projects = [
     livePreview: 'https://tictac.sajanghuman.com/',
   },
 ]
+
+const blogs = {
+  obj1: {
+    name: '📄 Datahall — Open Source DocSend Alternative 🚀',
+    link: 'https://www.linkedin.com/posts/sajanghuman_bluewavedatahall-mvplaunch-datamanagement-activity-7287899878557458432-Xn4X?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZACZgBKhkysouDqbrDUPe0VCxiN7m78io',
+  },
+  obj2: {
+    name: '🌟 4.5k+ GitHub Stars for Checkmate! ♟️🔥',
+    link: 'https://www.linkedin.com/posts/bluewave-labs_were-excited-to-announce-the-official-release-activity-7288602926728560640-Brdc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZACZgBKhkysouDqbrDUPe0VCxiN7m78io',
+  },
+  obj3: {
+    name: '🏆 Made It to Top 10 in RampUP! 😄💡',
+    link: 'https://www.linkedin.com/posts/sajanghuman_pitchprep-rampupcompetition-startupjourney-activity-7317178593581703169-mK8i?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZACZgBKhkysouDqbrDUPe0VCxiN7m78io',
+  },
+  obj4: {
+    name: '🎮 Minecraft 3JS Devlog — Part 1: Blocks & Beyond 🧱',
+    link: 'https://www.linkedin.com/posts/sajanghuman_gamedevelopment-webgl-typescript-activity-7211476372953653248-ev8Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZACZgBKhkysouDqbrDUPe0VCxiN7m78io',
+  },
+  obj5: {
+    name: '🎮 Minecraft 3JS Devlog — Part 2: Infinite World? 🌍',
+    link: 'https://www.linkedin.com/posts/sajanghuman_typescript-threejs-gamedevelopment-activity-7228171617271496704-l0-s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZACZgBKhkysouDqbrDUPe0VCxiN7m78io',
+  },
+  obj6: {
+    name: '🏡 Building a Home Server — Feels Like Cheating 🤓💻',
+    link: 'https://www.linkedin.com/posts/sajanghuman_home-server-literally-feels-like-cheating-activity-7282151957148921856-bf8I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZACZgBKhkysouDqbrDUPe0VCxiN7m78io',
+  },
+  obj7: {
+    name: '🐧 Arch Linux Wipe & Rebuild — Weekend Madness 😤⚙️',
+    link: 'https://www.linkedin.com/posts/sajanghuman_i-spent-my-weekend-afternoon-completely-reinstalling-activity-7311903716050116608-eTT8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZACZgBKhkysouDqbrDUPe0VCxiN7m78io',
+  },
+  obj8: {
+    name: '🌀 Naruto AI Chatbot — Believe It! 🤖🍜',
+    link: 'https://www.linkedin.com/posts/sajanghuman_threejs-ai-javascript-activity-7229977306688020481-kdgq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZACZgBKhkysouDqbrDUPe0VCxiN7m78io',
+  },
+  obj9: {
+    name: '🐒 MonkeyType GitHub — Test Your Typing Speed! ⌨️',
+    link: 'https://github.com/monkeytypegame/monkeytype',
+  },
+  obj10: {
+    name: '🧩 My React Component Library — Published on GitHub 📦',
+    link: 'https://github.com/users/SajanGhuman/packages/npm/package/component-library',
+  },
+}
 
 const skills = [
   'HTML',
@@ -109,4 +152,4 @@ const contact = {
   email: 'sajanghuman18@gmail.com',
 }
 
-export { header, about, projects, skills, contact }
+export { header, about, projects, blogs, skills, contact }

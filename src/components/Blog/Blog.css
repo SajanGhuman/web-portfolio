@@ -1,0 +1,19 @@
+.blogs__list {
+  max-width: 700px;
+  width: 95%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  user-select: none; /* Prevent text selection */
+  -webkit-user-drag: none; /* Prevent drag on WebKit */
+  cursor: pointer;
+}
+
+.blogs__list-item {
+  padding: 1rem;
+  font-size: 1.1rem;
+  user-select: none;
+  -webkit-user-drag: none;
+  pointer-events: auto;
+}
