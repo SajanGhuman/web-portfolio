@@ -1,68 +1,13 @@
-# Cleanfolio
+👋 Hi, I'm Sajan Ghuman!
 
-Cleanfolio is a portfolio template built with React. However, if you prefer a template built with HTML, CSS, and JavaScript, you can check out [Cleanfolio Minimal](https://github.com/rjshkhr/cleanfolio-minimal).
+I'm a passionate full-stack developer with expertise in JavaScript, TypeScript, React, Next.js, Tailwind CSS, and Three.js. I enjoy building pixel-perfect, visually stunning web applications and exploring the intersection of AI, web security, and interactive 3D experiences.
 
-## Preview
+🔧 Tech Stack:
 
-[![Imgur](https://imgur.com/FwDMNEM.gif)](https://rjshkhr.github.io/cleanfolio)
+Frontend: React, Next.js, Tailwind CSS, GSAP, Three.js Backend: Node.js, Prisma, Supabase Databases: MongoDB, MySQL, Firestore Tools: Git, Docker, VS Code, GitHub Actions Others: Web Security, AI Integration (ChatGPT API, Azure Speech SDK)
 
-[Live Demo](https://rjshkhr.github.io/cleanfolio)
+🌱 I'm always learning and experimenting with new technologies to improve the user experience and build innovative solutions.
 
-## Instructions
+📫 Feel free to reach out if you want to collaborate or just chat about tech!
 
-### Setup
-
-```shell
-git clone https://github.com/rjshkhr/cleanfolio
-cd cleanfolio
-```
-
-If you use [nvm](https://github.com/nvm-sh/nvm) or [fnm](https://github.com/Schniz/fnm), execute:
-
-```shell
-nvm install
-nvm use
-```
-
-Or:
-
-```shell
-fnm install
-fnm use
-```
-
-To install and launch the project, run these commands:
-
-```shell
-yarn
-yarn start
-```
-
-### How to Use
-
-- Open the `public/index.html` file and replace:
-
-`<title>John Smith</title>` with `<title>Your Name</title>`.
-
-- Open the `src/portfolio.js` file and make the necessary changes.
-
-### Deployment
-
-- In the `package.json` file, update:
-
-`"homepage": "https://rjshkhr.github.io/cleanfolio"`
-
-to `"homepage": "https://yourusername.github.io"`.
-
-- Push the changes to your repository.
-
-- To build and deploy, run the following commands:
-
-```shell
-yarn build
-yarn deploy
-```
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+Credits - https://github.com/rjshkhr/cleanfolio
