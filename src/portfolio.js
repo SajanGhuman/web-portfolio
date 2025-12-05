@@ -16,6 +16,23 @@ const about = {
 
 const projects = [
   {
+    name: 'Checkmate',
+    description: 'Monitor your servers with confidence',
+    stack: [
+      'React',
+      'Typescript',
+      'Material UI',
+      'Docker',
+      'MongoDB',
+      'NodeJS',
+      'Recharts',
+    ],
+    sourceCode: 'https://github.com/bluewave-labs/Checkmate',
+    blog: '',
+    docs: 'https://docs.checkmate.so/checkmate-2.1/users-guide/quickstart',
+    livePreview: 'https://checkmate.so/',
+  },
+  {
     name: 'Datahall',
     description: 'An open source DocSend alternative.',
     stack: [
@@ -27,8 +44,9 @@ const projects = [
       'PrismaORM',
     ],
     sourceCode: 'https://github.com/SajanGhuman/Minecraft-3JS',
-    livePreview: 'https://minecraft.sajanghuman.com/',
     blog: 'https://www.linkedin.com/posts/sajanghuman_bluewavedatahall-mvplaunch-datamanagement-activity-7287899878557458432-Xn4X?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZACZgBKhkysouDqbrDUPe0VCxiN7m78io',
+    livePreview:
+      'https://www.figma.com/design/GLFfhwOQeHmbcflgCTuMKA/DataRoom--Secure-File-Server-?node-id=0-1&p=f&t=BurBDQBvIwFRW01U-0',
   },
   {
     name: 'Padraig',
@@ -45,35 +63,6 @@ const projects = [
     sourceCode: 'https://github.com/SajanGhuman/Minecraft-3JS',
     livePreview: 'https://minecraft.sajanghuman.com/',
     blog: 'https://www.linkedin.com/posts/sajanghuman_typescript-threejs-gamedevelopment-activity-7228171617271496704-l0-s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZACZgBKhkysouDqbrDUPe0VCxiN7m78io',
-  },
-  {
-    name: 'Cube Space',
-    description: 'Learn rubicks cube algorithms interactively.',
-    stack: ['TypeScript', 'React', 'Tailwind CSS'],
-    sourceCode: 'https://github.com/SajanGhuman/Cube-Space',
-    livePreview: 'https://cubespace.sajanghuman.com/',
-  },
-  {
-    name: 'Naruto Sensei',
-    description: 'Talk to a 3D AI-powered chatgpt about naruto anime series.',
-    stack: ['Three JS', 'TypeScript', 'React', 'ChatGPT API'],
-    sourceCode: 'https://github.com/SajanGhuman/ask_naruto_sensei',
-    livePreview: 'https://naruto.sajanghuman.com/',
-    blog: 'https://www.linkedin.com/posts/sajanghuman_threejs-ai-javascript-activity-7229977306688020481-kdgq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZACZgBKhkysouDqbrDUPe0VCxiN7m78io',
-  },
-  {
-    name: 'Winnpeg Parks',
-    description: 'Simple API to search nearby parks in Winnipeg.',
-    stack: ['Javascript', 'CSS', 'Winnipeg Open Data API'],
-    sourceCode: 'https://github.com/SajanGhuman/winnipeg-parks',
-    livePreview: 'https://parks.sajanghuman.com/',
-  },
-  {
-    name: 'Tic Tac Toe',
-    description: 'Classic Tic-Tac-Toe game that we all love.',
-    stack: ['React', 'CSS'],
-    sourceCode: 'https://github.com/SajanGhuman/Tic-Tac-Toe',
-    livePreview: 'https://tictac.sajanghuman.com/',
   },
 ]
 
