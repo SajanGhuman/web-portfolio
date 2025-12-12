@@ -1,13 +1,12 @@
 const header = {
   homepage: 'sajanghuman.com',
-  title: 'Portfolio',
+  title: 'SS',
 }
 
 const about = {
   name: 'Sajan',
   role: 'Full Stack Developer',
-  description:
-    'Greetings! 👋 I am Sajan, a passionate and motivated web developer currently honing my skills at Bluewave Labs. 🍁',
+  description: 'Just another guy who loves to make stuff.',
   social: {
     linkedin: 'https://www.linkedin.com/in/sajanghuman',
     github: 'https://github.com/SajanGhuman',
@@ -33,9 +32,18 @@ const projects = [
     livePreview: 'https://checkmate.so/',
   },
   {
+    name: 'Blog',
+    description: 'Educational site where I teach web dev concepts with ease.',
+    stack: ['React', 'Typescript', 'NextJs', 'CodeSandbox'],
+    sourceCode: 'https://github.com/SajanGhuman/blog',
+    blog: '',
+    livePreview: 'https://blog.sajanghuman.com/',
+  },
+  {
     name: 'Datahall',
     description: 'An open source DocSend alternative.',
     stack: [
+      'React',
       'NextJS',
       'Typescript',
       'Tailwind',
@@ -74,6 +82,10 @@ const blogs = {
   obj2: {
     name: '🌟 4.5k+ GitHub Stars for Checkmate! ♟️🔥',
     link: 'https://www.linkedin.com/posts/bluewave-labs_were-excited-to-announce-the-official-release-activity-7288602926728560640-Brdc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZACZgBKhkysouDqbrDUPe0VCxiN7m78io',
+  },
+  AoC: {
+    name: '💡 Advent of Code',
+    link: 'https://www.linkedin.com/posts/sajanghuman_adventofcode-adventofcode-aoc-activity-7401298069738287104--Ze6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZACZgBKhkysouDqbrDUPe0VCxiN7m78io',
   },
   obj3: {
     name: '🏆 Made It to Top 10 in RampUP! 😄💡',
