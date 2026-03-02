@@ -21,6 +21,15 @@ const Navbar = () => {
       >
         <li className='nav__list-item'>
           <a
+            href='#projects'
+            onClick={toggleNavList}
+            className='link link--nav'
+          >
+            Home Server
+          </a>
+        </li>
+        <li className='nav__list-item'>
+          <a
             href='https://blog.sajanghuman.com/'
             onClick={toggleNavList}
             className='link link--nav'

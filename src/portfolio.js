@@ -57,6 +57,15 @@ const projects = [
       'https://www.figma.com/design/GLFfhwOQeHmbcflgCTuMKA/DataRoom--Secure-File-Server-?node-id=0-1&p=f&t=BurBDQBvIwFRW01U-0',
   },
   {
+    name: 'Khalsa Financial',
+    description: 'Landing page for a Winnipeg based financial firm',
+    stack: ['React', 'Typescript', 'Postgres', 'NodeJS'],
+    sourceCode: 'https://github.com/SajanGhuman/Khalsa_Financial.git',
+    blog: '',
+    docs: 'https://docs.checkmate.so/checkmate-2.1/users-guide/quickstart',
+    livePreview: 'https://khalsafinancial.ca/',
+  },
+  {
     name: 'Padraig',
     description:
       'Learning Management System for scheduling online meetings and delivering training courses to company employees',
@@ -162,7 +171,7 @@ const skills = [
 ]
 
 const contact = {
-  email: 'sajanghuman18@gmail.com',
+  email: 'me@sajanghuman.com',
 }
 
 export { header, about, projects, blogs, skills, contact }

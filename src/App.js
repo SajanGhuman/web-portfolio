@@ -26,9 +26,8 @@ const App = () => {
       </main>
 
       <ScrollToTop />
-      <Footer />
     </div>
   )
 }
-
+    // <Footer />
 export default App
