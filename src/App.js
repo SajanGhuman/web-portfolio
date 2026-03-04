@@ -7,7 +7,6 @@ import Skills from './components/Skills/Skills'
 import Blog from './components/Blog/Blog'
 import ScrollToTop from './components/ScrollToTop/ScrollToTop'
 import Contact from './components/Contact/Contact'
-import Footer from './components/Footer/Footer'
 import './App.css'
 
 const App = () => {
@@ -29,5 +28,5 @@ const App = () => {
     </div>
   )
 }
-    // <Footer />
+// <Footer />
 export default App
